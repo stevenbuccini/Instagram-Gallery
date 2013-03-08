@@ -1,4 +1,4 @@
-Instagram-Gallery
+Instagram Gallery
 =================
 A clean and simple web gallery to display Instagram photos for a particular hashtag. Originally designed as a Facebook app; to use in your FB app simply have an iFrame load the included file.
 
